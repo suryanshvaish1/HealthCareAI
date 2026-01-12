@@ -1,0 +1,15 @@
+# API Keys and Secrets
+.env
+
+# Python Virtual Environments
+venv/
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Local temporary audio/image files
+final.mp3
+highlighted_anomaly.jpg
